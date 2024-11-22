@@ -3,6 +3,7 @@ export default function Teste() {
         <>
             <h1>Teste</h1>
             <p>teste teste teste</p>
+            <p>TESTE</p>
         </>
     )
 }
